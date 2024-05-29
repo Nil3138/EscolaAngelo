@@ -17,3 +17,5 @@ x = int(input("Digite um número: "))
 y = int(input("Digite outro número: "))
 op = int(input("Escolha a operação: "))
 calcular(x, y, op)
+
+# Visto 29/05 - Prof. Parisotto
